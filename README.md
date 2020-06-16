@@ -3,7 +3,7 @@
 ##Creating a new Branch
 >git checkout -b nupur
 
-##Renaming `nupur` branch
+##Renaming `nupur` branch to `nupurthakur`
 
 >git branch -m nupur nupurthakur         # Rename branch locally
 
